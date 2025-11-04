@@ -27,7 +27,7 @@ This repository contains the foundational research and mathematical framework fo
 
 **Robert E. Quarles (Robby)**  
 Visionary systems architect and creator of GGT, ENT, and UGD  
-📧 robert.quarles@cosmicphi.research
+📧 quarles85@gmail.com
 
 ## 🤝 Contributions
 
