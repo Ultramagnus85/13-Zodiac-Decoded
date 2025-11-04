@@ -26,9 +26,6 @@ This repository contains the foundational research and mathematical framework fo
 ## 🔭 Author
 
 **Robert E. Quarles (Robby)**  
-Visionary systems architect and creator of GGT, ENT, and UGD  
-📧 quarles85@gmail.com
+Systems thinker and creator of GGT, ENT, and UGD  
+📧 rquarles85@gmail.com
 
-## 🤝 Contributions
-
-This is a living system. Extensions, validations, and remixes are welcome. Please cite the original framework and submit pull requests with clear documentation.
