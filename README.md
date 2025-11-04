@@ -1,31 +1,28 @@
-# The Cosmic Phi Matrix: Domain-Specific Golden Ratio Constants from Stellar Geometry
+# The Cosmic Phi Matrix  
+**Domain-Specific Golden Ratio Constants from 13-Zodiac Stellar Geometry**
 
-This repository contains the foundational research and mathematical framework for decoding domain-specific golden ratio constants from stellar constellation geometries using the **Universal Geometric Decoder (UGD)**. The system is assumption-free, bidirectional, and dimensionally scalable—extracting polynomial identities directly from angular stellar relationships.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Launch Demo](https://img.shields.io/badge/Launch_Interactive_Demo-blue?logo=github)](index.html)
 
-## 📐 Core Components
+**Abstract** – The *Universal Geometric Decoder (UGD)* extracts **13 distinct golden-ratio (\(\phi\)) constants** from the angular relationships of the 13 zodiac constellations (including Ophiuchus). Each \(\phi_d\) is calibrated to a physical scale—quantum, biological, or cosmic—with Ophiuchus providing the *master integration constant* \(\phi_{\text{master}} = 1.6236\).
 
-- **UGD Algorithm**: Bidirectional mapping from stellar coordinates to polynomial identities.
-- **13-Constellation Phi Matrix**: Domain-specific phi constants derived from zodiacal constellations plus Ophiuchus.
-- **Cosmic Phi Identity**: Fourth-degree polynomial from Virgo yielding $\phi_{\text{cosmic}} = 1.6282$.
-- **Master Integration Constant**: Ophiuchus-derived $\phi_{\text{master}} = 1.6236$ satisfying recursive averaging.
+---
 
-## 📊 Applications
+## Core Components
+- **UGD Algorithm** – Assumption-free, bidirectional mapper from stellar angles to polynomial identities.  
+- **13-Constellation Phi Matrix** – One \(\phi_d\) per sign, plus the master key.  
+- **Cosmic Phi Identity** – Fourth-degree polynomial from Virgo yields the universal baseline \(\phi_{\text{cosmic}} = 1.6180339887\ldots\).
 
-- Quantum coherence optimization  
-- Biological resonance mapping  
-- Cosmological structure modeling  
-- Phi-optimized engineering and computation
+## Applications
+- Quantum coherence tuning  
+- DNA / neural resonance mapping  
+- Galaxy-formation simulations  
+- Phi-optimized engineering & AI  
 
-## 📁 Files
+---
 
-- `UGD_Methodology.md`: Mathematical foundation and bidirectional decoding steps  
-- `Illustrated_Summary.pdf`: Visual overview of constellation decoding and phi matrix  
-- `LICENSE`: Open-source license for collaborative extension  
-- `Demonstration_Walkthrough.md`: Step-by-step guide for decoding a constellation using UGD
+## Getting Started  
 
-## 🔭 Author
-
-**Robert E. Quarles (Robby)**  
-Systems thinker and creator of GGT, ENT, and UGD  
-📧 rquarles85@gmail.com
-
+```bash
+git clone https://github.com/Ultramagnus85/13-Zodiac-Decoded.git
+cd 13-Zodiac-Decoded
